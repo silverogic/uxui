@@ -39,3 +39,5 @@ UI elements performing the same function within a single modal should be consoli
 Ensure that the table contents do not extend beyond the table boundaries.
 
 Combine visually redundant symbols and text that share the same meaning.
+
+The spinner is also redesigned to match the app's UI theme.
