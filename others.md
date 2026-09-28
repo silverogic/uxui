@@ -1,3 +1,14 @@
+### Genernal
+
+- Ensure that elements within the grid do not extend beyond the grid boundaries.
+- Make sure the combo box design follows the app's theme.
+- If a toggle switch has four or more options, switch to a combo box.
+- UI elements performing the same function within a single modal should be consolidated.
+- Ensure that the table contents do not extend beyond the table boundaries.
+- Combine visually redundant symbols and text that share the same meaning.
+- The spinner is also redesigned to match the app's UI theme.
+- When sorting numerical data in a table in ascending order, rows with missing values ​​or NaN data are intentionally placed at the very end.
+
 ### The 4 Core Principles (POUR)
 
 > [!NOTE]
@@ -25,19 +36,3 @@
 - **Multi-modal Signals:** Never rely solely on color to convey status (e.g., pair red error borders with an **alert icon + descriptive text**).
 - **Typography & Spacing:** Maintain line height at least `1.5x` font size, and paragraph spacing at least `2x` font size.
 - **Text Reflow (200% Zoom):** Ensure layout does not break when users zoom text up to 200%.
-
-### Others
-
-Ensure that elements within the grid do not extend beyond the grid boundaries.
-
-Make sure the combo box design follows the app's theme.
-
-If a toggle switch has four or more options, switch to a combo box.
-
-UI elements performing the same function within a single modal should be consolidated.
-
-Ensure that the table contents do not extend beyond the table boundaries.
-
-Combine visually redundant symbols and text that share the same meaning.
-
-The spinner is also redesigned to match the app's UI theme.
