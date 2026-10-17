@@ -9,6 +9,7 @@
 - The spinner is also redesigned to match the app's UI theme.
 - When sorting numerical data in a table in ascending order, rows with missing values ​​or NaN data are intentionally placed at the very end.
 - Information fatigue should be minimized, while the clarity of information should be maximized.
+- Make sure the tooltip design also matches the app theme.
 
 ### The 4 Core Principles (POUR)
 
