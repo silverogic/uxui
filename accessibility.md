@@ -1,17 +1,6 @@
-### Genernal
+# Accessibility
 
-- Ensure that elements within the grid do not extend beyond the grid boundaries.
-- Make sure the combo box design follows the app's theme.
-- If a toggle switch has four or more options, switch to a combo box.
-- UI elements performing the same function within a single modal should be consolidated.
-- Ensure that the table contents do not extend beyond the table boundaries.
-- Combine visually redundant symbols and text that share the same meaning.
-- The spinner is also redesigned to match the app's UI theme.
-- When sorting numerical data in a table in ascending order, rows with missing values ​​or NaN data are intentionally placed at the very end.
-- Information fatigue should be minimized, while the clarity of information should be maximized.
-- Make sure the tooltip design also matches the app theme.
-
-### The 4 Core Principles (POUR)
+## The 4 Core Principles (POUR)
 
 > [!NOTE]
 > All UI components should satisfy the POUR principles.
@@ -21,13 +10,13 @@
 3. **Understandable:** Information and the operation of user interface must be understandable (consistent navigation, clear error messages).
 4. **Robust:** Content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technologies.
 
-### Conformance Levels (Level A, AA, AAA)
+## Conformance Levels (Level A, AA, AAA)
 
 - **Level A:** Minimum essential requirement (failure blocks access for some users).
 - **Level AA:** **Global industry standard** (target level for most legal compliance and enterprise products).
 - **Level AAA:** Highest level of accessibility (specialized or niche accessibility applications).
 
-### Visual UI Design
+## Visual Accessibility
 
 > [!IMPORTANT]
 > **Color Contrast Ratios (WCAG 2.1 Level AA)**
